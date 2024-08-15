@@ -1,3 +1,4 @@
 #*.log  过滤所有以.log结尾的文件
 .idea/
 venv/
+__pycache__/
