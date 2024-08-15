@@ -1,1 +1,2 @@
-*/.idea
+#*.log  过滤log文件
+.idea
