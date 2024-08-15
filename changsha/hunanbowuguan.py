@@ -6,6 +6,7 @@ cron：52 0,6-22/2 * * *
 """
 
 import requests
+import os
 from SendNotify import send
 def changshabowuguan(url,cookie):
     filtered_dates = []

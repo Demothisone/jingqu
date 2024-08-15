@@ -8,7 +8,7 @@ cron：52 0,6-22/2 * * *
 
 import requests
 from datetime import datetime
-
+import os
 # 获取当前日期
 current_date = datetime.now()
 
