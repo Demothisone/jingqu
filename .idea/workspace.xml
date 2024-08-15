@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="325b9ca4-2f44-4f21-b217-d7d9b66d0cd2" name="变更" comment="1" />
+    <list default="true" id="325b9ca4-2f44-4f21-b217-d7d9b66d0cd2" name="变更" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,6 +37,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2kdw4NZZObSTqWMnmSH77IBvG2V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -52,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723626573650</updated>
       <workItem from="1723626576078" duration="1268000" />
+      <workItem from="1723685732715" duration="966000" />
     </task>
     <servers />
   </component>
