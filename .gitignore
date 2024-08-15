@@ -1,2 +1,2 @@
-#*.log  ����log�ļ�
+#*.log  过滤所有以.log结尾的文件
 .idea/
